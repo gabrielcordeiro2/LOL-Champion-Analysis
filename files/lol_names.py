@@ -1,0 +1,21 @@
+correction_roles = {
+    "AurelionSol": "Aurelion_Sol",
+    "Belveth": "Bel'Veth",
+    "Chogath": "Cho'Gath",
+    "DrMundo": "Dr._Mundo",
+    "JarvanIV": "Jarvan_IV",
+    "Kaisa": "Kai'Sa",
+    "Khazix": "Kha'Zix",
+    "KogMaw": "Kog'Maw",
+    "Leblanc": "LeBlanc",
+    "LeeSin": "Lee_Sin",
+    "MasterYi": "Master_Yi",
+    "MissFortune": "Miss_Fortune",
+    "MonkeyKing": "Wukong",
+    "RekSai": "Rek'Sai",
+    "Renata": "Renata_Glasc",
+    "TahmKench": "Tahm_Kench",
+    "TwistedFate": "Twisted_Fate",
+    "Velkoz": "Vel'Koz",
+    "XinZhao": "Xin_Zhao"
+}
