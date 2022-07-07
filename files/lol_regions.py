@@ -1,15 +1,15 @@
 regions = [
-    "Bandle_City",
-    "Bilgewater",
-    "Demacia",
-    "Ionia",
-    "Ixtal",
-    "Noxus",
-    "Piltover",
-    "Shadow_Isles",
-    "Shurima",
-    "Targon",
-    "Freljord",
-    "Void",
-    "Zaun"
+    "bandle-city",
+    "bilgewater",
+    "demacia",
+    "ionia",
+    "ixtal",
+    "noxus",
+    "piltover",
+    "shadow-isles",
+    "shurima",
+    "mount-targon",
+    "freljord",
+    "void",
+    "zaun"
 ]
