@@ -6,7 +6,7 @@ I will answer some questions using data and i pretend to post the csv file on [K
 
 | __Finished:__  | __Todo:__ |
 | ------------- | ------------- |
-| Virtualenv & requirements | PostreSQL DB Integration using SQL Alchemy |
+| Virtualenv & requirements | PostgreSQL DB Integration using SQL Alchemy |
 | Genders section | Data Analysis |
 | Roles section in ddragon API | Build readme |
 | Stats Scrapping with Selenium | Post on Kaggle |
