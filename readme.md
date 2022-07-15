@@ -6,10 +6,10 @@ I will answer some questions using data and i pretend to post the csv file on [K
 
 | __Finished:__  | __Todo:__ |
 | ------------- | ------------- |
-| Virtualenv & requirements | PostgreSQL DB Integration using SQL Alchemy |
-| Genders section | Data Analysis |
-| Roles section in ddragon API | Build readme |
-| Stats Scrapping with Selenium | Post on Kaggle |
+| Virtualenv & requirements | Data Analysis |
+| Genders section | Build readme |
+| Roles section in ddragon API | Post on Kaggle |
+| Stats Scrapping with Selenium |  |
 | Regions Scrapping with Requests |  |
 | Dataframe without voices |  |
 | Scrapping file in colab version |  |
