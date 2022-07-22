@@ -33,7 +33,7 @@ For several years of my life I played League of Legends, I would like to do some
 
 Basically we have three files:
 
-`Data Analysis.ipynb` --> Data Analysis in Jupyter/Colab
+`Data Analysis.ipynb` --> Data Analysis in Jupyter/[Colab](https://colab.research.google.com/github/gabrielcordeiro2/LOL-Champion-Analysis/blob/main/Data_Analysis.ipynb)
 
 `Scrapping_Colab.ipynb` --> Scraping in Jupyter/[Colab](https://colab.research.google.com/github/gabrielcordeiro2/LOL-Champion-Analysis/blob/main/Scrapping_Colab.ipynb) version
 
