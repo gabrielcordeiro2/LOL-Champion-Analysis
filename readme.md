@@ -20,9 +20,6 @@ I made a Data Scraping and Data Visualization about League of Legends champions,
   <img src="https://user-images.githubusercontent.com/100642061/180349004-556ac175-bd1e-4edd-b852-22d999432577.png"  height="120px" />
   <img src="https://user-images.githubusercontent.com/100642061/180349007-b5652a07-6381-4d90-8cda-9b86d5d3b67d.png"  height="120px" /> 
 </div>
-
-Note: I post the Dataset on Kaggle [here](https://www.kaggle.com/gabrielcdev).
-
 </div>
 
 ## The idea:
