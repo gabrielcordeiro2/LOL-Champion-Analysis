@@ -35,7 +35,7 @@ Basically we have three files:
 
 `Data Analysis.ipynb` --> Data Analysis in Jupyter/Colab
 
-`Scrapping_Colab.ipynb` --> Scraping in Jupyter/Colab version
+`Scrapping_Colab.ipynb` --> Scraping in Jupyter/[Colab](https://colab.research.google.com/github/gabrielcordeiro2/LOL-Champion-Analysis/blob/main/Scrapping_Colab.ipynb) version
 
 `Scrapping_PC.ipynb` --> Scraping in PC version
 
