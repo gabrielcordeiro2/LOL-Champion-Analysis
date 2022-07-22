@@ -31,9 +31,19 @@ For several years of my life I played League of Legends, I would like to do some
 
 ## How it works:
 
-Soon...
+Basically we have three files:
 
-## Requirements:
+`Data Analysis.ipynb` --> Data Analysis in Jupyter/Colab
+
+`Scrapping_Colab.ipynb` --> Scraping in Jupyter/Colab version
+
+`Scrapping_PC.ipynb` --> Scraping in PC version
+
+- You will need the `files` folder to run both Scraping versions.
+- The main Dataset is `lol_df.csv`, and it is located in `files` folder.
+- You can generate an updated `lol_df.csv` running any Scraping file.
+
+## Requirements for PC:
 
 You will need to install all dependencies to run PC file:
 
