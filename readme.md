@@ -6,21 +6,17 @@ I will answer some questions using data and i pretend to post the csv file on [K
 
 | __Finished:__  | __Todo:__ |
 | ------------- | ------------- |
-| Virtualenv & requirements | Data Analysis |
-| Genders section | Build readme |
-| Roles section in ddragon API | Post on Kaggle |
+| Virtualenv & requirements | Build readme |
+| Genders section | Post on Kaggle |
+| Roles section in ddragon API |  |
 | Stats Scrapping with Selenium |  |
 | Regions Scrapping with Requests |  |
 | Dataframe without voices |  |
 | Scrapping file in colab version |  |
+| Data Analysis |  |
 
 
-<h1>
-  <a href="https://github.com/gabrielcordeiro2/LOL-Champion-Analysis">
-    Previews:
-  </a>
-</h1> 
-
+#### Previews:
 <div>
   <img src="https://user-images.githubusercontent.com/100642061/180348959-5666f8e0-8974-4d92-9254-0cfbe0df30bb.png"  height="120px" />
   <img src="https://user-images.githubusercontent.com/100642061/180348992-1e493e41-7918-47d2-9549-ae1ad2556f91.png"  height="120px" />
