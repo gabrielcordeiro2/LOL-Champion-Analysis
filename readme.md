@@ -1,4 +1,17 @@
-## Previews:
+<div align="center">
+  <img height="300em" src="https://user-images.githubusercontent.com/100642061/180362083-40c143c6-447d-4274-9116-e7bbd1558cf3.gif">
+</div>
+
+<div align="center">
+  <img height='20' src='https://img.shields.io/github/stars/gabrielcordeiro2/LOL-Champion-Analysis.svg' />
+  <img height='20' src='https://img.shields.io/badge/License-MIT-red.svg' />
+  <img height='20' src='https://img.shields.io/github/forks/gabrielcordeiro2/LOL-Champion-Analysis.svg' />
+
+[<img height='25' src='https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue' alt='linkedin'>](https://www.linkedin.com/in/gabrielcdev/)
+[<img height='25' src='https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=#615352' alt='instagram'>](https://www.instagram.com/krd.gabriel/)
+[<img height='25' src='https://img.shields.io/badge/Kaggle-000?style=for-the-badge&logo=Kaggle&logoColor=blue' alt='Kaggle'>](https://www.kaggle.com/gabrielcdev/)
+
+I made a Data Scraping and Data Visualization about League of Legends champions, answering some data related questions.
 
 <div>
   <img src="https://user-images.githubusercontent.com/100642061/180348959-5666f8e0-8974-4d92-9254-0cfbe0df30bb.png"  height="120px" />
@@ -8,21 +21,35 @@
   <img src="https://user-images.githubusercontent.com/100642061/180349007-b5652a07-6381-4d90-8cda-9b86d5d3b67d.png"  height="120px" /> 
 </div>
 
-## Info About project:
+Note: I post the Dataset on Kaggle [here](https://www.kaggle.com/gabrielcdev).
 
-I'm Creating a data analysis about League Of Legends champions.
+</div>
 
-I will answer some questions using data and i pretend to post the csv file on [Kaggle](https://www.kaggle.com/gabrielcdev) in the future. 
+## The idea:
 
+For several years of my life I played League of Legends, I would like to do some personal project about the game, I didn't find a dataset with the information about champions in the way I wanted, and that also with a code available to the public.
 
+## How it works:
 
-| __Finished:__  | __Todo:__ |
-| ------------- | ------------- |
-| Virtualenv & requirements | Build readme |
-| Genders section | Post on Kaggle |
-| Roles section in ddragon API |  |
-| Stats Scrapping with Selenium |  |
-| Regions Scrapping with Requests |  |
-| Dataframe without voices |  |
-| Scrapping file in colab version |  |
-| Data Analysis |  |
+Soon...
+
+## Requirements:
+
+You will need to install all dependencies to run PC file:
+
+1. `git clone https://github.com/gabrielcordeiro2/LOL-Champion-Analysis`
+2. `pip3 install -r requirements.txt`
+
+## Skills that i learned:
+
+- **Data Scraping**
+
+  Using: Requests, BeautifulSoup, cURL & Selenium.
+
+- **Data Cleansing**
+  
+  Using: Pandas, Regex, Lambda functions & List comprehension.
+
+- **Data Visualization**
+  
+  Using: Matplotlib, Numpy & Word cloud.
