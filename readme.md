@@ -42,7 +42,7 @@ Basically we have three files:
 
 ## Requirements for PC:
 
-You will need to install all dependencies to run PC file:
+You will need to install all dependencies to run:
 
 1.  Python 3.8.10+
 2. `git clone https://github.com/gabrielcordeiro2/LOL-Champion-Analysis`
