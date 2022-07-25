@@ -44,8 +44,9 @@ Basically we have three files:
 
 You will need to install all dependencies to run PC file:
 
-1. `git clone https://github.com/gabrielcordeiro2/LOL-Champion-Analysis`
-2. `pip3 install -r requirements.txt`
+1.  Python 3.8.10+
+2. `git clone https://github.com/gabrielcordeiro2/LOL-Champion-Analysis`
+3. `pip3 install -r requirements.txt`
 
 ## Skills that i learned:
 
