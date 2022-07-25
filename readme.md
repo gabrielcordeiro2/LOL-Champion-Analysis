@@ -47,6 +47,7 @@ You will need to install all dependencies to run PC file:
 1.  Python 3.8.10+
 2. `git clone https://github.com/gabrielcordeiro2/LOL-Champion-Analysis`
 3. `pip3 install -r requirements.txt`
+4. `python -m spacy download en_core_web_sm`
 
 ## Skills that i learned:
 
