@@ -83,6 +83,7 @@ genders = {
     "Nautilus": "Male",
     "Neeko": "LGBTQIA+",
     "Nidalee": "Female",
+    "Nilah": "Female",
     "Nocturne": "LGBTQIA+",
     "Nunu": "LGBTQIA+",
     "Olaf": "Male",
